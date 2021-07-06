@@ -9,9 +9,13 @@ The bq24259is a highly-integrated switch-mode battery charge management and syst
 
 
 Applications
+
 •  TabletPC, SmartPhone,InternetDevices
+
 •  PortableAudioSpeaker[1]
+
 The schematic of the project:
+
 ![image](https://user-images.githubusercontent.com/59101099/124651768-02541600-dea4-11eb-9eab-dae7c13b07af.png)
 
 
